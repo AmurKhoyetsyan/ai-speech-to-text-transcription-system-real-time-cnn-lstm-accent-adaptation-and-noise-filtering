@@ -52,12 +52,12 @@ Speech-to-Text solution transforms spoken language into accurate, real-time text
     <tbody>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/211eaaab-f0cc-43e0-94ea-dec416036100" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/312e485a-da94-4a09-afca-dbcb9bfde6e6" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
